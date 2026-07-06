@@ -6,7 +6,7 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 
 ## 🚀 Live Demo
 
-**Live Demo:** rock-paper-scissor-eight-eta.vercel.app
+**Live Demo:**  https://rock-paper-scissor-eight-eta.vercel.app
 ---
 
 ## 📌 Features
