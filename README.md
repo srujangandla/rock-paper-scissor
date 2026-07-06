@@ -7,13 +7,6 @@ A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, a
 ## 🚀 Live Demo
 
 **Live Demo:** rock-paper-scissor-eight-eta.vercel.app
-
-Example:
-
-```text
-https://your-project-name.vercel.app/
-```
-
 ---
 
 ## 📌 Features
@@ -66,18 +59,6 @@ rock-paper-scissors/
 * ✂️ Scissors beats Paper
 * 📄 Paper beats Rock
 * If both players choose the same option, the round is a draw.
-
----
-
-## 📸 Screenshot
-
-> Add a screenshot of your application here.
-
-Example:
-
-```text
-assets/screenshot.png
-```
 
 ---
 
