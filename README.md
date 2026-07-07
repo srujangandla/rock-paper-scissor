@@ -80,7 +80,7 @@ rock-paper-scissors/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/srujangandla/rock-paper-scissor
 ```
 
 2. Navigate to the project folder:
